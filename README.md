@@ -1,4 +1,4 @@
-# Hey, [I'm Yash Raj]! 👋
+# Hey, I'm [Yash Raj]! 👋
 
 I'm a 3rd-year Computer Science student from India, diving deep into cybersecurity. I enjoy building tools with Python, exploring Linux (Kali, Ubuntu, Parrot), and learning ethical hacking techniques. Excited to collaborate on projects that make the internet safer!
 
